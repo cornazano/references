@@ -6,7 +6,7 @@ Beyer, Betsy, Niall Richard Murphy, David K. Rensin, Kent Kawahara, and Stephen 
 
 Colvin, Geoff. 2008. _Talent is Overrated: What Really Separates World-Class Performers from Everybody Else_. New York: Portfolio.
 
-Cook, Richard I. How Complex Systems Fail.
+Cook, Richard I. How Complex Systems Fail. https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
 
 Crandall, Beth, Gary Klein, and Robert R. Hoffman. 2006. _Working Minds: A Practitioner’s Guide to Cognitive Task Analysis_. Cambridge, MA: MIT Press.
 
@@ -149,7 +149,6 @@ Rother, Mike. 2010. _Toyota Kata: Managing People for Improvement, Adaptiveness 
 # S
 
 Schwartz, Mark. 2017. _A Seat at the Table_. Portland: IT Revolution.
-—. 2018. War and Peace and IT. Unedited manuscript. Portland: IT Revolution.
 
 Senge, Peter M. 2006 (1990). _The Fifth Discipline: The Art and Practice of the Learning Organization_. Revised and Updated. New York: Currency/Doubleday.
 
@@ -167,7 +166,7 @@ Tharp, Twyla. 2003. _The Creative Habit: Learn It and Use It for Life: A Practic
 
 # W
 
-Woods, DD. STELLA: Report from the SNAFUcatchers workshop on coping with complexity.
+Woods, DD. STELLA: Report from the SNAFUcatchers workshop on coping with complexity. https://snafucatchers.github.io/
 
 # Y
 
