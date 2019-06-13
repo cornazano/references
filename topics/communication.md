@@ -1,4 +1,4 @@
-# Communication, Speaking, and Presentations
+# Communication
 
 Recommended books:
 
