@@ -30,6 +30,6 @@ Books:
 
 * Liker, Jeffrey K., and James K. Franz. 2011. _The Toyota Way to Continuous Improvement: Linking Strategy and Operational Excellence to Achieve Superior Performance_. New York: McGraw Hill.
 
-* Rother, Mike. 2010. _Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_. New York: McGraw Hill.
+* Mike Rother, [_Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_](../bibliography/books.md/#rother-2010).
 
 * —. 2018. _The Toyota Kata Practice Guide: Practicing Scientific Thinking Skills for Superior Results in 20 Minutes a Day_. New York: McGraw Hill.
