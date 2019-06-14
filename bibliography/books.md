@@ -132,19 +132,19 @@
 
 # R
 
-* Reynolds, Garr. 2012. _Presentation Zen: Simple Ideas on Presentation Design and Delivery_. 2 ed., revised and updated. Berkeley, CA: New Riders.
+* <a name="reynolds-2012"></a> Reynolds, Garr. 2012. _Presentation Zen: Simple Ideas on Presentation Design and Delivery_. 2 ed., revised and updated. Berkeley, CA: New Riders.
 
-* Reinertsen, Donald G. 2009. _The Principles of Product Development Flow: Second Generation Lean Product Development_. Redondo Beach, CA: Celeritas.
+* <a name="reinertsen-2009"></a> Reinertsen, Donald G. 2009. _The Principles of Product Development Flow: Second Generation Lean Product Development_. Redondo Beach, CA: Celeritas.
 
-* Richardson, Tracey, and Ernie Richardson. 2017. _The Toyota Engagement Equation: How to Understand and Implement Continuous Improvement Thinking in Any Organization_. New York: McGraw Hill.
+* <a name="richardson-richardson-2017"></a> Richardson, Tracey, and Ernie Richardson. 2017. _The Toyota Engagement Equation: How to Understand and Implement Continuous Improvement Thinking in Any Organization_. New York: McGraw Hill.
 
-* Ries, Eric. 2011. _The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses_. New York: Crown Business.
+* <a name="ries-2011"></a> Ries, Eric. 2011. _The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses_. New York: Crown Business.
 
-* —. 2017. _The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth_. New York: Currency.
+* <a name="ries-2017"></a> —. 2017. _The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth_. New York: Currency.
 
-* Rother, Mike. 2010. _Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_. New York: McGraw Hill.
+* <a name="rother-2010"></a> Rother, Mike. 2010. _Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_. New York: McGraw Hill.
 
-* —. 2018. _The Toyota Kata Practice Guide: Practicing Scientific Thinking Skills for Superior Results in 20 Minutes a Day_. New York: McGraw Hill.
+* <a name="rother-2018"></a> —. 2018. _The Toyota Kata Practice Guide: Practicing Scientific Thinking Skills for Superior Results in 20 Minutes a Day_. New York: McGraw Hill.
 
 # S
 
