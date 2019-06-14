@@ -14,13 +14,13 @@ Talks:
 
 Books:
 
-* Deming, W. Edwards. 2000 (1986/1982). _Out of the Crisis_. Cambridge, MA: MIT Press.
+* W. Edwards. Deming, [_Out of the Crisis_](../bibliography/books.md/#deming-2000).
 
   Discusses improvement through PDCA, and the use of runcharts to understand how
   repeated processes are operating.
   A key point: variation needs to be controlled for stability of repeating processes.
 
-* Goldratt, Eliyahu M. and Jeff Cox. 2014 (1984). _The Goal: A Process of Ongoing Improvement_. 4 th Rev. Ed. Great Barrington, MA: North River Press.
+* Eliyahu M. Goldratt and Jeff Cox, [_The Goal_](../bibliography/books.md/#goldratt-cox-2014).
 
   The theory of constraints are introduced here.
   A key concept is that the primary constraint in a value stream (the bottleneck)
@@ -28,8 +28,8 @@ Books:
   Improvements before it will just pile up more inventory at the bottleneck,
   while improvements after it will just further starve the step.
 
-* Liker, Jeffrey K., and James K. Franz. 2011. _The Toyota Way to Continuous Improvement: Linking Strategy and Operational Excellence to Achieve Superior Performance_. New York: McGraw Hill.
+* Jeffrey K. Liker and James K. Franz, [_The Toyota Way to Continuous Improvement_](../bibliography/books.md/#liker-franz-2011).
 
-* Mike Rother, [_Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_](../bibliography/books.md/#rother-2010).
+* Mike Rother, [_Toyota Kata_](../bibliography/books.md/#rother-2010).
 
-* —. 2018. _The Toyota Kata Practice Guide: Practicing Scientific Thinking Skills for Superior Results in 20 Minutes a Day_. New York: McGraw Hill.
+* Mike Rother, [_The Toyota Kata Practice Guide_](../bibliography/books.md/#rother-2018)

@@ -2,13 +2,13 @@
 
 Recommended books:
 
-* DeGrandis, Dominica. 2017. _Making Work Visible: Exposing Time Theft to Optimize Work & Flow_. Portland: IT Revolution.
+* Karen Martin and Mike Osterling, [_Value Stream Mapping_](../bibliography/books.md/#martin-osterling-2014).
 
-* Goldratt, Eliyahu M. and Jeff Cox. 2014 (1984). _The Goal: A Process of Ongoing Improvement_. 4 th Rev. Ed. Great Barrington, MA: North River Press.
+* Dominica DeGrandis, [_Making Work Visible_](../bibliography/books.md/#degrandis-2017).
 
-* Kersten, Mik. 2018. _Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework_. Portland: IT Revolution.
+* Eliyahu M. Goldratt and Jeff Cox, [_The Goal_](../bibliogrpahy/books.md/#goldratt-cox-2014)
 
-* Martin, Karen, and Mike Osterling. 2014. _Value Stream Mapping: How to Visualize Work and Align Leadership for Organizational Transformation_. New York: McGraw Hill.
+* Mik Kersten, [_Project to Product_](../bibliography/books.md/#kersten-2018).
 
 Talks:
 

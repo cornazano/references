@@ -2,10 +2,10 @@
 
 Recommended books:
 
-* Duarte, Nancy. 2008. _Slide:ology: The Art and Science of Creating Great Presentations_. Sebastopol, CA: O’Reilly.
+* Nancy Duarte, [_Slide:ology_](../bibliography/books.md/#duarte-2008).
 
-* Duarte, Nancy. 2010. _Resonate: Present Visual Stories that Transform Audiences_. n.p: John Wiley & Sons.
+* Nancy Duarte, [_Resonate_](../bibliography/books.md/#duarte-2010).
 
-* Patterson, Kerry, Joseph Grenny, Ron McMillan, and Al Switzler. 2012. _Crucial Conversations: Tools for Talking When Stakes are High_. Updated 2 nd ed. New York: McGraw Hill.
+* Garr Reynolds, [_Presentation Zen_](../bibliography/books.md/reynolds-2012).
 
-* Reynolds, Garr. 2012. _Presentation Zen: Simple Ideas on Presentation Design and Delivery_. 2 ed., revised and updated. Berkeley, CA: New Riders.
+* Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler, [_Crucial Conversations_](../bibliography/books.md/#patterson-grenny-mcmillan-switzler-2012)
