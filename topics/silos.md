@@ -15,4 +15,5 @@ Books:
 Blog Posts:
 
 * [Brent Gleeson — The Silo Mentality: How To Break Down The Barriers](https://www.forbes.com/sites/brentgleeson/2013/10/02/the-silo-mentality-how-to-break-down-the-barriers/) (Forbes, October 2, 2013)
+
 * [Benjamin Zimmer — Of Silos and Stovepipes](http://itre.cis.upenn.edu/~myl/languagelog/archives/002964.html) (Language Log, March 27, 2006)

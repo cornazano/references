@@ -1,18 +1,18 @@
-# B
+# Books
+
+## B
 
 * <a name="beyer-murphy-rensin-kawahara-thorne-2018"></a> Beyer, Betsy, Niall Richard Murphy, David K. Rensin, Kent Kawahara, and Stephen Thorne, eds. 2018. _The Site Reliability Workbook: Practical Ways to Implement SRE_. Sebastopol, CA: O’Reilly.
 
-# C
+## C
 
 * <a name="colvin-2008"></a> Colvin, Geoff. 2008. _Talent is Overrated: What Really Separates World-Class Performers from Everybody Else_. New York: Portfolio.
-
-* Cook, Richard I. How Complex Systems Fail. https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
 
 * <a name="crandall-klein-hoffman-2006"></a> Crandall, Beth, Gary Klein, and Robert R. Hoffman. 2006. _Working Minds: A Practitioner’s Guide to Cognitive Task Analysis_. Cambridge, MA: MIT Press.
 
 * <a name="csikszentmihalyi-1990"></a> Csikszentmihalyi, Mihaly. 1990. _Flow: The Psychology of Optimal Experience_. New York: Harper Perennial.
 
-# D
+## D
 
 * <a name="degrandis-2017"></a> DeGrandis, Dominica. 2017. _Making Work Visible: Exposing Time Theft to Optimize Work & Flow_. Portland: IT Revolution.
 
@@ -28,17 +28,17 @@
 
 * <a name="dweck-2016"></a> Dweck, Carol S. 2016 (2006). _Mindset: The New Psychology of Success_. Updated edition. New York: Ballantine Books.
 
-# E
+## E
 
 * <a name="ericsson-pool-2016"></a> Ericsson, Anders, and Robert Pool. 2016. _Peak: How All Of Us Can Achieve Extraordinary Things_. Toronto: Penguin.
 
-# F
+## F
 
 * <a name="forsgren-humble-kim-2018"></a> Forsgren, Nicole, Jez Humble, and Gene Kim. 2018. _Accelerate: Building and Scaling High Performing Technology Organizations_. Portland: IT Revolution.
 
 * <a name="fournier-2017"></a> Fournier, Camille. 2017. _The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change_. Sebasopol, CA: O’Reilly.
 
-# G
+## G
 
 * <a name="goldratt-cox-2014"></a> Goldratt, Eliyahu M. and Jeff Cox. 2014 (1984). _The Goal: A Process of Ongoing Improvement_. 4 th Rev. Ed. Great Barrington, MA: North River Press.
 
@@ -50,7 +50,7 @@
 
 * <a name="gruver-2016"></a> Gruver, Gary. 2016. _Starting and Scaling DevOps in the Enterprise_. n.p.: n.p.
 
-# H
+## H
 
 * <a name="hand-2017"></a> Hand, Jason. 2017. _Post-Incident Reviews: Learning from Failure for Improved Incident Responses_. Sebasopol, CA: O’Reilly.
 
@@ -64,7 +64,7 @@
 
 * <a name="humble-molesky-oreilly-2015"></a> Humble, Jez, Joanne Molesky, and Barry O’Reilly. 2015. _Lean Enterprise: How High Performance Organizations Innovate at Scale_. Sebastopol, CA: O’Reilly.
 
-# K
+## K
 
 * <a name="kahneman-2011"></a> Kahneman, Daniel. 2011. _Thinking, Fast and Slow_. n.p.: Anchor Canada.
 
@@ -78,9 +78,7 @@
 
 * <a name="klein-2013"></a> —. 2013. _Seeing What Others Don't: The Remarkable Ways We Gain Insights_. New York: Pubic Affairs.
 
-* Kurtz, Cynthia F., and David J. Snowden. 2003. The New Dynamics of Strategy: Sense-making in a complex and complicated world. _IBM Systems Journal 42.3_, pp. 462-483.
-
-# L
+## L
 
 * <a name="lakoff-johnson-1980"></a> Lakoff, George, and Mark Johnson. 1980. _Metaphors We Live By_. Chicago: University of Chicago Press.
 
@@ -96,7 +94,7 @@
 
 * <a name="liker-ross-2017"></a> Liker, Jeffrey K., and Karyn Ross. 2017. _The Toyota Way to Service Excellence: Lean Transformation in Service Organizations_. New York: McGraw Hill.
 
-# M
+## M
 
 * <a name="marquet-2012"></a> Marquet, L. David. 2012. _Turn the Ship Around!: A True Story of Turning Followers into Leaders_. New York: Portfolio/Penguin.
 
@@ -112,17 +110,17 @@
 
 * <a name="morris-ma-wu-2014"></a> Morris, Langdon, Moses Ma, and Po Chi Wu. 2014. _Agile Innovation: The Revolutionary Approach to Accelerate Success, Inspire Engagement, and Ignite Creativity_. Hoboken, NJ: Wiley.
 
-# N
+## N
 
 * <a name="norman-2013"></a> Norman, Don. 2013. _The Design of Everyday Things_. Revised and expanded ed. New York: Basic Books.
 
-# O
+## O
 
 * <a name="oreilly-2019"></a> O'Reilly, Barry. 2019. _Unlearn: Let Go of Past Success to Achieve Extraordinary Results_. New York: McGraw-Hill.
 
 * <a name="ousterhout-2018"></a> Ousterhout, John. 2018. _A Philosophy of Software Design_. Palo Alto, CA: Yaknyam.
 
-# P
+## P
 
 * <a name="patterson-grenny-maxfield-mcmillan-switzler-2013"></a> Patterson, Kerry, Joseph Grenny, David Maxfield, Ron McMillan, and Al Switzler. 2013. _Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior_. Updated 2 nd ed. New York: McGraw Hill.
 
@@ -130,7 +128,7 @@
 
 * <a name="perri-2019"></a> Perri, Melissa. 2019. _Escaping the Build Trap: How Effective Product Management Creates Real Value_. Sebastopol, CA: O’Reilly.
 
-# R
+## R
 
 * <a name="reynolds-2012"></a> Reynolds, Garr. 2012. _Presentation Zen: Simple Ideas on Presentation Design and Delivery_. 2 ed., revised and updated. Berkeley, CA: New Riders.
 
@@ -146,17 +144,15 @@
 
 * <a name="rother-2018"></a> —. 2018. _The Toyota Kata Practice Guide: Practicing Scientific Thinking Skills for Superior Results in 20 Minutes a Day_. New York: McGraw Hill.
 
-# S
+## S
 
 * <a name="schwartz-2017"></a> Schwartz, Mark. 2017. _A Seat at the Table_. Portland: IT Revolution.
 
 * <a name="senge-2006"></a> Senge, Peter M. 2006 (1990). _The Fifth Discipline: The Art and Practice of the Learning Organization_. Revised and Updated. New York: Currency/Doubleday.
 
-* Snowden, David J., and Mary E. Boone. 2007. A Leader’s Framework for Decision Making. _Harvard Business Review_, November 2007. https://hbr.org/2007/11/a-leaders-framework-for-decision-making.html, accessed 2017-10-21.
-
 * <a name="sutherland-sutherland-2014"></a> Sutherland, Jeff, and J. J. Sutherland. 2014. _Scrum: The Art of Doing Twice the Work in Half the Time_. New York: Crown Business.
 
-# T
+## T
 
 * <a name="taleb-2005"></a> Taleb, Nassim Nicoholas. 2005 (2004). _Fooled by Randomness: The Hidden Role of Chance in Live and in the Markets_. 2 nd ed. New York: Random House.
 
@@ -164,10 +160,6 @@
 
 * <a name="tharp-2003"></a> Tharp, Twyla. 2003. _The Creative Habit: Learn It and Use It for Life: A Practical Guide_. New York: Simon & Schuster.
 
-# W
-
-* Woods, DD. STELLA: Report from the SNAFUcatchers workshop on coping with complexity. https://snafucatchers.github.io/
-
-# Y
+## Y
 
 * <a name="yuret-2016"></a> Yuret, Adam. 2016. _How to Have Great Meetings: A Lean Coffee Book_. n.p.: Context Driven Agility Press.
