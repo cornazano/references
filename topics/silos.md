@@ -1,16 +1,28 @@
 # Silos
 
+A primary theme in DevOps discussions is the need to address functional siloization within
+our organizations.
+The use of the term _silo_ goes back to at least 1988 (per the Wikipedia article on
+[information silos](https://en.wikipedia.org/wiki/Information_silo)).
+This page collects some of the materials I've been looking at to learn more about the
+effects of silos and how we can mitigate against the more problematic aspects.
+
+> **NOTE:**
+> I'm not far enough in my reading to have specific recommended resources.
+> These are things I'm looking at as part of my exploratory work on the topic.
+
 Books:
 
 * Patrick Lencioni, [_Silos, Politics and Turf Wars_](../bibliography/books.md/#lencioni-2006).
 
-* Biggs, Sharon M. 2015 (2014). _The Silo Effect: Invisible Barriers That Can Destroy Organizational Teams_. 2nd ed. np: np.
-
-  I have not read this one yet.
-
 * Tett, Gillian. 2015. _The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers_. New York: Simon and Schuster.
 
+  Not to be confused with Biggs' book of the same title.
   I have not read this one yet.
+
+* Sharon M. Biggs, [_The Silo Effect_](../bibliography/books.md/#biggs-2105).
+
+  Not to be confused with Tett's book of the same title.
 
 Blog Posts:
 

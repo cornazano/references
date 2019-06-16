@@ -4,6 +4,8 @@
 
 * <a name="beyer-murphy-rensin-kawahara-thorne-2018"></a> Beyer, Betsy, Niall Richard Murphy, David K. Rensin, Kent Kawahara, and Stephen Thorne, eds. 2018. _The Site Reliability Workbook: Practical Ways to Implement SRE_. Sebastopol, CA: O’Reilly.
 
+* <a name="biggs-2015"></a>Biggs, Sharon M. 2015 (2014). _The Silo Effect: Invisible Barriers That Can Destroy Organizational Teams_. 2nd ed. np: np.
+
 ## C
 
 * <a name="colvin-2008"></a> Colvin, Geoff. 2008. _Talent is Overrated: What Really Separates World-Class Performers from Everybody Else_. New York: Portfolio.
