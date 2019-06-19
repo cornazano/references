@@ -6,6 +6,8 @@
 
 * <a name="biggs-2015"></a>Biggs, Sharon M. 2015 (2014). _The Silo Effect: Invisible Barriers That Can Destroy Organizational Teams_. 2nd ed. np: np.
 
+* <a name="bungay-2011"></a>Bungay, Stephen. 2011. _The Art of Action: How Leaders Close the Gap between Plans, Actions and Results_. London: Nicholas Brealey.
+
 ## C
 
 * <a name="colvin-2008"></a> Colvin, Geoff. 2008. _Talent is Overrated: What Really Separates World-Class Performers from Everybody Else_. New York: Portfolio.
