@@ -16,6 +16,8 @@ Starting to experiment with collecting recommended materials for exploring vario
   Interpersonal communication and public speaking / presentations.
 * [Continuous Improvement](topics/continuous_improvement.md) —
   Improvement Kata and other approaches.
+* [Incident Management](topics/incident_management.md) —
+  Handling software incidents, including how we learn from them.
 * [Leadership](topics/leadership.md) —
   Leadership, coaching, and management.
 * [Product Management](topics/product_management.md) —
