@@ -64,7 +64,9 @@
 
 * <a name="hering-2017"></a> Hering, Mirco. 2017. _DevOps for the Modern Enterprise: Winning Practices to Transform Legacy IT Organizations_. Uncorrected proof. Portland: IT Revolution.
 
-* <a name="humble-farler-2011"></a> Humble, Jez, and David Farley. 2011. _Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation_. Upper Saddle River, NJ: Addison-Wesley.
+* <a name="hoffman-2016"></a> Hoffman, Kevin. 2016. _Beyond the Twelve-Factor App: Exploring the DNA of Highly Scalable, Resilient Cloud Applications_. Sebastopol, CA: O’Reilly.
+
+* <a name="humble-farley-2011"></a> Humble, Jez, and David Farley. 2011. _Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation_. Upper Saddle River, NJ: Addison-Wesley.
 
 * <a name="humble-molesky-oreilly-2015"></a> Humble, Jez, Joanne Molesky, and Barry O’Reilly. 2015. _Lean Enterprise: How High Performance Organizations Innovate at Scale_. Sebastopol, CA: O’Reilly.
 
@@ -158,7 +160,7 @@
 
 ## T
 
-* <a name="taleb-2005"></a> Taleb, Nassim Nicoholas. 2005 (2004). _Fooled by Randomness: The Hidden Role of Chance in Live and in the Markets_. 2 nd ed. New York: Random House.
+* <a name="taleb-2005"></a> Taleb, Nassim Nicoholas. 2005 (2004). _Fooled by Randomness: The Hidden Role of Chance in Live and in the Markets_. 2nd ed. New York: Random House.
 
 * <a name="taleb-2012"></a> —. 2012. _Antifragile: Things That Gain from Disorder_. New York: Random House.
 
