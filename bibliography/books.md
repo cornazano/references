@@ -164,6 +164,8 @@
 
 * <a name="taleb-2012"></a> —. 2012. _Antifragile: Things That Gain from Disorder_. New York: Random House.
 
+* <a name="tett-2015"></a> Tett, Gillian. 2015. _The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers_. New York: Simon and Schuster.
+
 * <a name="tharp-2003"></a> Tharp, Twyla. 2003. _The Creative Habit: Learn It and Use It for Life: A Practical Guide_. New York: Simon & Schuster.
 
 ## Y
