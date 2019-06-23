@@ -14,4 +14,10 @@ Recommended works:
   Jeff Gothelf and Josh Seiden,
   [_Lean UX_](../bibliography/books.md/#gothelf-seiden-2016).
 
-* :page_with_curl: Jeff Gothelf, [What does an agile product roadmap look like?](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef) (blog post).
+* :page_with_curl:
+  Jeff Gothelf,
+  ["What does an agile product roadmap look like?"](../bibliography/papers_posts_other.md/#gothelf-2018).
+
+* :page_with_curl:
+  John Cutler,
+  ["Hybrid Boards For Roadmapping"](bibliography/papers_posts_other.md/#cutler-2019).

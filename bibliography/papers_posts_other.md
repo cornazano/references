@@ -4,6 +4,14 @@
 
 * <a name="cook-2000"></a> Cook, Richard I. 2000 (1998). How Complex Systems Fail. https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
 
+* <a name="cutler-2019"></a> Cutler, John. 2019. ["Hybrid Boards For Roadmapping"](https://medium.com/@johnpcutler/hybrid-boards-for-roadmapping-736a0514d3d8).
+
+* <a name="cutler-2018"></a> —. 2018. ["The Patient Change Agent"](https://hackernoon.com/the-patient-change-agent-fd8548f04777)
+
+## G
+
+* <a name=gothelf></a> Gothelf, Jeff. 2018. [What does an agile product roadmap look like?](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
+
 ## K
 
 * <a name="kurtz-snowden-2003"></a> Kurtz, Cynthia F., and David J. Snowden. 2003. The New Dynamics of Strategy: Sense-making in a complex and complicated world. _IBM Systems Journal 42.3_, pp. 462-483.

@@ -35,6 +35,9 @@ in tracking what's influencing my intellectual landscape.
 ## January
 
 * :microphone: DevOpsDays New York City
+* :page_with_curl: John Cutler, ["Hybrid Boards For Roadmapping"](bibliography/papers_posts_other.md/#cutler-2019).
+* :page_with_curl: Jeff Gothelf, ["What does an agile product roadmap look like?"](../bibliography/papers_posts_other.md/#gothelf-2018).
+
 
 # 2018
 
@@ -42,6 +45,7 @@ in tracking what's influencing my intellectual landscape.
 * :microphone: DevOpsDays Toronto
 * :microphone: DevOps Enterprise Summit (USA)
 * :green_book: Beth Crandall, Gary Klein, and Robert R. Hoffman, [_Working Minds_](bibliography/books.md/#crandall-klein-hoffman-2006).
+* :page_with_curl: John Cutler, ["The Patient Change Agent"](bibliography/papers_posts_other.md/#cutler-2018).
 * :green_book: Dominica DeGrandis, [_Making Work Visible_](bibliography/books.md/#degrandis-2017). [re-read]
 * :green_book: Sidney Dekker, [_The Field Guide to Understanding 'Human Error'_](bibliography/books.md/#dekker-2014).
 * :green_book: W. Edwards Deming, [_Out of the Crisis_](bibliography/books.md/#deming-2000).
