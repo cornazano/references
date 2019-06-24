@@ -11,6 +11,7 @@ in tracking what's influencing my intellectual landscape.
 * :green_book: Sharon M. Biggs, [_The Silo Effect_](../bibliography/books.md/#biggs-2105).
 * :green_book: Nancy Duarte, [_Resonate_](bibliography/books.md/#duarte-2010).
 * :green_book: Camille Fournier, [_The Manager's Path_](bibliography/books.md/#fournier-2017).
+* :page_with_curl: Eleanor H. Rosch, ["Natural Categories"](bibliography/papers_posts_other.md/#rosch-1973).
 
 ## May
 

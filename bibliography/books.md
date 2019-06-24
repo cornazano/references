@@ -38,6 +38,10 @@
 
 ## F
 
+* <a name="fauconnier-1985"></a> Fauconnier, Gilles. 1985. _Mental Spaces: Aspects of Meaning Construction in Natural Language_. Cambridge, Eng.: Cambridge University Press.
+
+* <a name="feldman-2006"></a> Feldman, Jerome A. 2006. _From Molecule to Metaphor: A Neural Theory of Language_. Cambridge, MA: MIT Press.
+
 * <a name="forsgren-humble-kim-2018"></a> Forsgren, Nicole, Jez Humble, and Gene Kim. 2018. _Accelerate: Building and Scaling High Performing Technology Organizations_. Portland: IT Revolution.
 
 * <a name="fournier-2017"></a> Fournier, Camille. 2017. _The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change_. Sebasopol, CA: O’Reilly.
