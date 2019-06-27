@@ -15,7 +15,7 @@ in tracking what's influencing my intellectual landscape.
 * :green_book: Camille Fournier,
   [_The Manager's Path_](bibliography/books.md/#fournier-2017).
 * :movie_camera: Lara Hogan,
-  ["Navigating Team Friction"](bibliogrpahy/conference_talks.md/#hogan-2019)
+  ["Navigating Team Friction"](bibliography/conference_talks.md/#hogan-2019)
 * :page_with_curl: Eleanor H. Rosch,
   ["Natural Categories"](bibliography/papers_posts_other.md/#rosch-1973).
   [re-read]
@@ -25,7 +25,7 @@ in tracking what's influencing my intellectual landscape.
 * :microphone: CALICO Conference
 * :microphone: DevOpsDays Toronto
 * :green_book: Betsy Beyer et al.,
-  [_The Site Reliability Workbook_](bibliogrpahy/books.md/#beyer-murphy-rensin-kawahara-thorne-2018).
+  [_The Site Reliability Workbook_](bibliography/books.md/#beyer-murphy-rensin-kawahara-thorne-2018).
 
 ## April
 
@@ -147,7 +147,7 @@ in tracking what's influencing my intellectual landscape.
   [_DevOps for the Modern Enterprise_](bibliography/books.md/#hering-2017).
 * :page_with_curl: Mirco Hering, Dominica DeGrandis, and Nicole Forsgren. _Measure Efficiency, Effectiveness, and Culture to Optimize DevOps Transformation: Metrics for DevOps Transformation_.
 * :movie_camera: Rich Hickey,
-  ["Spec-ulation"](bibliogrpahy/conference_talks.md/#hickey-2016)
+  ["Spec-ulation"](bibliography/conference_talks.md/#hickey-2016)
 * :green_book: Kevin Hoffman,
   [_Beyond the Twelve-Factor App_](bibliography/books.md/#hoffman-2016).
 * :green_book: Jez Humble and David Farley,
