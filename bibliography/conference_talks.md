@@ -40,6 +40,16 @@
 
 ## H
 
+* <a name="hogan-2019"></a> Hogan, Lara. 2019. "Navigating Team Friction".
+
+  Covers the _forming_, _storming_, _norming_, _performing_ cycle,
+  and discusses how understanding our human needs for biceps
+  (_belonging_, _improvement/progress_, _choice_, _equality/fairness_,
+  _predicability_, and _status_) can help us successfully
+  move through the cycle.
+
+  [The Lead Developer, London, UK, June 11-12, 2019](https://www.youtube.com/watch?v=lqqBktWqPLo) (29:36)
+
 * <a name="hickey-2016"></a> Hickey, Rich. 2016. "Spec-ulation."
 
   [Clojure Conj, Austin, TX, December 1, 2016](https://www.youtube.com/watch?v=oyLBGkS5ICk) (1:16:13)

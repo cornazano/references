@@ -14,6 +14,8 @@ in tracking what's influencing my intellectual landscape.
   [_Resonate_](bibliography/books.md/#duarte-2010).
 * :green_book: Camille Fournier,
   [_The Manager's Path_](bibliography/books.md/#fournier-2017).
+* :movie_camera: Lara Hogan,
+  ["Navigating Team Friction"](bibliogrpahy/conference_talks.md/#hogan-2019)
 * :page_with_curl: Eleanor H. Rosch,
   ["Natural Categories"](bibliography/papers_posts_other.md/#rosch-1973).
   [re-read]
