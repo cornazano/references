@@ -32,6 +32,12 @@
 
   [DevOps Enterprise Summit, San Francisco, CA, November 13-15, 2017.](https://www.youtube.com/watch?v=CFMJ3V4VakA) (31:06)
 
+## E
+
+* <a name=eckhardt-2019></a> Eckhardt, Courtney. 2019. "How to Have an Operational Incident."
+
+  [DevOpsDays, Toronto, ON, May 28, 2019](https://www.youtube.com/watch?v=yOg34Jh2vr8) (20:24)
+
 ## F
 
 * <a name="freeman-2018"></a> Freeman, Emily. 2018. "This IS NOT Fine - Putting Out (Code) Fires."

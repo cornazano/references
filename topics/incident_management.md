@@ -24,5 +24,14 @@ Recommended works:
   [_Sources of Power_](../bibliography/books.md/#klein-1998).
 
 * :movie_camera:
+  Courtney Eckhardt,
+  ["How to Have an Operational Incident"](../bibliography/conference_talks.md/#eckhardt-2019).
+
+  Covers the reasons why we need a response framework and an explanation
+  of what it should, at minimum, include.
+  Draws on the emergency response frameworks used in Canada
+  and The United States.
+
+* :movie_camera:
   Emily Freeman,
   ["This IS NOT Fine - Putting Out (Code) Fires"](../bibliography/conference_talks.md/#freeman-2018).

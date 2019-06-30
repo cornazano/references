@@ -9,15 +9,17 @@ in tracking what's influencing my intellectual landscape.
 ## June
 
 * :green_book: Sharon M. Biggs,
-  [_The Silo Effect_](../bibliography/books.md/#biggs-2105).
+  [_The Silo Effect_](bibliography/books.md/#biggs-2105).
 * :green_book: Stephen Bungay,
-  [_The Art of Action_](../bibliography/books.md/#bungay-2011).
+  [_The Art of Action_](bibliography/books.md/#bungay-2011).
 * :green_book: Nancy Duarte,
   [_Resonate_](bibliography/books.md/#duarte-2010).
+* :movie_camera: Courtney Eckhardt,
+  ["How to Have an Operational Incident"](bibliography/conference_talks.md/#eckhardt-2019).
 * :green_book: Camille Fournier,
   [_The Manager's Path_](bibliography/books.md/#fournier-2017).
 * :movie_camera: Lara Hogan,
-  ["Navigating Team Friction"](bibliography/conference_talks.md/#hogan-2019)
+  ["Navigating Team Friction"](bibliography/conference_talks.md/#hogan-2019).
 * :page_with_curl: Eleanor H. Rosch,
   ["Natural Categories"](bibliography/papers_posts_other.md/#rosch-1973).
   [re-read]
@@ -54,7 +56,7 @@ in tracking what's influencing my intellectual landscape.
 * :page_with_curl: John Cutler,
   ["Hybrid Boards For Roadmapping"](bibliography/papers_posts_other.md/#cutler-2019).
 * :page_with_curl: Jeff Gothelf,
-  ["What does an agile product roadmap look like?"](../bibliography/papers_posts_other.md/#gothelf-2018).
+  ["What does an agile product roadmap look like?"](bibliography/papers_posts_other.md/#gothelf-2018).
 
 
 # 2018
@@ -179,7 +181,8 @@ in tracking what's influencing my intellectual landscape.
 * :green_book: Mike Rother,
   [_Toyota Kata_](bibliography/books.md/#rother-2010).
   [re-read]
-* :page_with_curl: David J. Snowden and Mary E. Boone. ["A Leader’s Framework for Decision Making"](bibliography/papers_posts_other.md/#snowden-boone-2007).
+* :page_with_curl: David J. Snowden and Mary E. Boone,
+  ["A Leader’s Framework for Decision Making"](bibliography/papers_posts_other.md/#snowden-boone-2007).
 * :green_book: Jeff Sutherland and J. J. Sutherland,
   [_Scrum_](bibliography/books.md/#sutherland-sutherland-2014).
 * :green_book: Nassim Nicoholas Taleb,
