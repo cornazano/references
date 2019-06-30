@@ -10,6 +10,8 @@ in tracking what's influencing my intellectual landscape.
 
 * :green_book: Sharon M. Biggs,
   [_The Silo Effect_](../bibliography/books.md/#biggs-2105).
+* :green_book: Stephen Bungay,
+  [_The Art of Action_](../bibliography/books.md/#bungay-2011).
 * :green_book: Nancy Duarte,
   [_Resonate_](bibliography/books.md/#duarte-2010).
 * :green_book: Camille Fournier,
