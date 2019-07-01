@@ -10,6 +10,8 @@
 
 ## C
 
+* <a name="chvatal-1983"></a> Chvátal, Vašek. 1983. _Linear Programming_. New York: W. H. Freeman.
+
 * <a name="colvin-2008"></a> Colvin, Geoff. 2008. _Talent is Overrated: What Really Separates World-Class Performers from Everybody Else_. New York: Portfolio.
 
 * <a name="crandall-klein-hoffman-2006"></a> Crandall, Beth, Gary Klein, and Robert R. Hoffman. 2006. _Working Minds: A Practitioner’s Guide to Cognitive Task Analysis_. Cambridge, MA: MIT Press.
@@ -118,6 +120,8 @@
 
 * <a name="meadows-2008"></a> Meadows, Donella H. 2008. _Thinking in Systems: A Primer_. Ed. Diana Wright. White River Junction. VT: Chelsea Green.
 
+* <a name="mendelson-1997"></a> Mendelson, Eliott. 1997. _Introduction to Mathematical Logic_. 4th ed. n.p.: Chapman & Hall/CRC.
+
 * <a name="morris-ma-wu-2014"></a> Morris, Langdon, Moses Ma, and Po Chi Wu. 2014. _Agile Innovation: The Revolutionary Approach to Accelerate Success, Inspire Engagement, and Ignite Creativity_. Hoboken, NJ: Wiley.
 
 ## N
@@ -140,6 +144,8 @@
 
 ## R
 
+* <a name="revesz-1983"></a> Révész, György E. 1983. _Introduction to Formal Languages_. New York: Dover.
+
 * <a name="reynolds-2012"></a> Reynolds, Garr. 2012. _Presentation Zen: Simple Ideas on Presentation Design and Delivery_. 2 ed., revised and updated. Berkeley, CA: New Riders.
 
 * <a name="reinertsen-2009"></a> Reinertsen, Donald G. 2009. _The Principles of Product Development Flow: Second Generation Lean Product Development_. Redondo Beach, CA: Celeritas.
@@ -149,6 +155,8 @@
 * <a name="ries-2011"></a> Ries, Eric. 2011. _The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses_. New York: Crown Business.
 
 * <a name="ries-2017"></a> —. 2017. _The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth_. New York: Currency.
+
+* <a name="rosenbloom-1950"></a> Rosenbloom, Paul C. 1950. _The Elements of Mathematical Logic_. New York: Dover.
 
 * <a name="rother-2010"></a> Rother, Mike. 2010. _Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_. New York: McGraw Hill.
 
