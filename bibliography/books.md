@@ -144,11 +144,11 @@
 
 ## R
 
+* <a name="reinertsen-2009"></a> Reinertsen, Donald G. 2009. _The Principles of Product Development Flow: Second Generation Lean Product Development_. Redondo Beach, CA: Celeritas.
+
 * <a name="revesz-1983"></a> Révész, György E. 1983. _Introduction to Formal Languages_. New York: Dover.
 
 * <a name="reynolds-2012"></a> Reynolds, Garr. 2012. _Presentation Zen: Simple Ideas on Presentation Design and Delivery_. 2 ed., revised and updated. Berkeley, CA: New Riders.
-
-* <a name="reinertsen-2009"></a> Reinertsen, Donald G. 2009. _The Principles of Product Development Flow: Second Generation Lean Product Development_. Redondo Beach, CA: Celeritas.
 
 * <a name="richardson-richardson-2017"></a> Richardson, Tracey, and Ernie Richardson. 2017. _The Toyota Engagement Equation: How to Understand and Implement Continuous Improvement Thinking in Any Organization_. New York: McGraw Hill.
 
