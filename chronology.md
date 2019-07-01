@@ -6,6 +6,14 @@ in tracking what's influencing my intellectual landscape.
 
 # 2019
 
+## July
+
+* :movie_camera: Noelle Daley,
+  ["What Colocated Teams Can Learn From Remote Teams"](bibliography/conference_talks.md/#daley-2019).
+* :movie_camera: Dominica DeGrandis,
+  ["Making Connections Visible"](bibliography/conference_talks.md/#degrandis-2018),
+  DevOpsDays Toronto 2019 recording.
+
 ## June
 
 * :green_book: Sharon M. Biggs,

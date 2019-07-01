@@ -12,6 +12,10 @@
 
 ## D
 
+* <a name="daley-2019"></a> Daley, Noelle. 2019. "What Colocated Teams Can Learn From Remote Teams".
+
+  * [DevOpsDays, Zürich, May 14, 2019](https://vimeo.com/344515972) (25:41)
+
 * <a name="degrandis-2016"></a> DeGrandis, Dominica. 2016. "Time Theft: How Hidden and Unplanned Work Commit the Perfect Crime."
 
   * [DevOps Enterprise Summit, San Francisco, CA, November 8-10, 2016.](https://www.youtube.com/watch?v=-TGJePmaaas) (27:37)
