@@ -19,12 +19,11 @@ Works:
 
 * :green_book:
   Gillian Tett,
-  [_The Silo Effect_](../bibliography.md/#tett-2015).
+  [_The Silo Effect_](../bibliography/books.md/#tett-2015).
 
   Not to be confused with Biggs' book of the same title.
 
-  I've only started reading this one, and appreciate the anthropological
-  perspective that she takes at the beginning.
+  I appreciate the anthropological perspective taken in this book.
 
 * :page_with_curl: [Brent Gleeson — The Silo Mentality: How To Break Down The Barriers](https://www.forbes.com/sites/brentgleeson/2013/10/02/the-silo-mentality-how-to-break-down-the-barriers/) (Forbes, October 2, 2013)
 
