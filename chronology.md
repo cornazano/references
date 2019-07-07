@@ -13,6 +13,8 @@ in tracking what's influencing my intellectual landscape.
 * :movie_camera: Dominica DeGrandis,
   ["Making Connections Visible"](bibliography/conference_talks.md/#degrandis-2018),
   DevOpsDays Toronto 2019 recording.
+* :page_with_curl: Jessica Kerr,
+  ["Principles of Collaborative Automation"](bibliography/papers_posts_other.md/#kerr-2019).
 * :green_book: Gillian Tett,
   [_The Silo Effect_](bibliography/books.md/#tett-2015).
 

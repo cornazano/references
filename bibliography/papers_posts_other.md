@@ -10,9 +10,11 @@
 
 ## G
 
-* <a name=gothelf></a> Gothelf, Jeff. 2018. [What does an agile product roadmap look like?](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
+* <a name=gothelf></a> Gothelf, Jeff. 2018. ["What does an agile product roadmap look like?"](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
 
 ## K
+
+* <a name="kerr-2019"></a> Kerr, Jessica. 2019. ["Principles of Collaborative Automation"](https://blog.atomist.com/principles-of-collaborative-automation/).
 
 * <a name="kurtz-snowden-2003"></a> Kurtz, Cynthia F., and David J. Snowden. 2003. The New Dynamics of Strategy: Sense-making in a complex and complicated world. _IBM Systems Journal 42.3_, pp. 462-483.
 
