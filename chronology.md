@@ -110,7 +110,7 @@ in tracking what's influencing my intellectual landscape.
 * :green_book: Mik Kersten,
   [_Project to Product_](bibliography/books.md/#kersten-2018).
 * :green_book: Gene Kim, Kevin Behr, and George Spafford,
-  [_The Phoenix Project_](bibliography/books.md/#kim-behr-spaffort-2018).
+  [_The Phoenix Project_](bibliography/books.md/#kim-behr-spafford-2018).
   [re-read]
 * :green_book: Gary Klein,
   [_Sources of Power_](bibliography/books.md/#klein-1998).
@@ -216,7 +216,7 @@ in tracking what's influencing my intellectual landscape.
 * :green_book: Daniel Kahneman,
   [_Thinking, Fast and Slow_](bibliography/books.md/#kahneman-2011).
 * :green_book: Gene Kim, Kevin Behr, and George Spafford,
-  [_The Phoenix Project_](bibliography/books.md/#kim-behr-spaffort-2018).
+  [_The Phoenix Project_](bibliography/books.md/#kim-behr-spafford-2018).
   [original edition]
 * :green_book: Gene Kim, Jez Humble, Patrick Debois, and John Willis,
   [_The DevOps Handbook_](bibliography/books.md/#kim-humble-debois-willis-2016).

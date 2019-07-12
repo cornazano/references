@@ -12,6 +12,8 @@ Bibliographic references for most of the works I've used and referred people to 
 
 Starting to experiment with collecting recommended materials for exploring various topics.
 
+* [Cognitive Linguistics](topics/cognitive_linguistics.md) —
+  Prototypes, metaphors, frames, etc.
 * [Communication](topics/communication.md) —
   Interpersonal communication and public speaking / presentations.
 * [Continuous Improvement](topics/continuous_improvement.md) —

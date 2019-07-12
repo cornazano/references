@@ -82,7 +82,7 @@
 
 * <a name="kersten-2018"></a> Kersten, Mik. 2018. _Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework_. Portland: IT Revolution.
 
-* <a name="kim-behr-spaffort-2018"></a> Kim, Gene, Kevin Behr, and George Spafford. 2018 (2013). _The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win_. 5th Anniversary Edition. Portland: IT Revolution.
+* <a name="kim-behr-spafford-2018"></a> Kim, Gene, Kevin Behr, and George Spafford. 2018 (2013). _The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win_. 5th Anniversary Edition. Portland: IT Revolution.
 
 * <a name="kim-humble-debois-willis-2016"></a> Kim, Gene, Jez Humble, Patrick Debois, and John Willis. 2016. _The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations_. Portland: IT Revolution.
 
