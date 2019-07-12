@@ -15,6 +15,9 @@ in tracking what's influencing my intellectual landscape.
   DevOpsDays Toronto 2019 recording.
 * :page_with_curl: Jessica Kerr,
   ["Principles of Collaborative Automation"](bibliography/papers_posts_other.md/#kerr-2019).
+* :page_with_curl: Eleanor Rosch,
+  ["Principles of Categorization"](bibliography/papers_posts_other.md/#rosch-1978).
+  [re-read]
 * :green_book: Gillian Tett,
   [_The Silo Effect_](bibliography/books.md/#tett-2015).
 

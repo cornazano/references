@@ -26,7 +26,7 @@
 
 * <a name="rosch-1973"></a> Rosch, Eleanor H. 1973. "Natural Categories." _Cognitive Psychology_ 4: 328-50.
 
-* <a name="rosch-1978"></a>—. 1978. "Principles of Categorization." _Cognition and Categorization_. Ed. Eleanor Rosch and Barbara B. Lloyd. Hillsdale, NJ: Erlbaum. 27-48.
+* <a name="rosch-1978"></a> —. 1978. "Principles of Categorization." _Cognition and Categorization_. Ed. Eleanor Rosch and Barbara B. Lloyd. Hillsdale, NJ: Erlbaum. 27-48.
 
 ## S
 
