@@ -69,7 +69,11 @@
 
 * <a name="kersten-2018"></a> Kersten, Mik. 2018. "Project to Product: How Value Stream Networks Will Transform IT and Business."
 
-  * [DevOps Enterprise Summit, Las Vegas, NV, October 22-24, 2018.](https://www.youtube.com/watch?v=E5VP3ioSRU8) (31:17)
+  * [DevOps Enterprise Summit, Las Vegas, NV, October 22-24, 2018](https://www.youtube.com/watch?v=E5VP3ioSRU8) (31:17)
+
+* <a name="kersten-2016"></a> Kersten, Nigel. 2016. "Abstractions and Metaphors: Words Matter in Operations."
+
+  * [DevOpsDays, Sydney, Australia, December 1-2, 2016](https://www.youtube.com/watch?v=Qor1AL4x0g8) (28:07)
 
 ## M
 

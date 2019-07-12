@@ -180,6 +180,8 @@ in tracking what's influencing my intellectual landscape.
 * :green_book: Karen Martin and Mike Osterling,
   [_Value Stream Mapping_](bibliography/books.md/#martin-osterling-2014).
   [re-read]
+* :movie_camera: Nigel Kersten,
+  ["Abstractions and Metaphors"](bibliography/conference_talks.md/#kersten-2016).
 * :green_book: Langdon Morris, Moses Ma, and Po Chi Wu,
   [_Agile Innovation_](bibliography/books.md/#morris-ma-wu-2014).
 * :green_book: Don Norman,
