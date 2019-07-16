@@ -13,6 +13,9 @@ in tracking what's influencing my intellectual landscape.
 * :movie_camera: Dominica DeGrandis,
   ["Making Connections Visible"](bibliography/conference_talks.md/#degrandis-2018),
   DevOpsDays Toronto 2019 recording.
+* :movie_camera: Emily Freeman,
+  ["This IS NOT Fine: Putting Out (Code) Fires"](bibliography/conference_talks.md/#freeman-2018),
+  SREcon 2018 recording.
 * :page_with_curl: Jessica Kerr,
   ["Principles of Collaborative Automation"](bibliography/papers_posts_other.md/#kerr-2019).
 * :page_with_curl: Eleanor Rosch,

@@ -45,9 +45,10 @@
 
 ## F
 
-* <a name="freeman-2018"></a> Freeman, Emily. 2018. "This IS NOT Fine - Putting Out (Code) Fires."
+* <a name="freeman-2018"></a> Freeman, Emily. 2018. "This IS NOT Fine: Putting Out (Code) Fires."
 
   * [DevOpsDays, Toronto, ON, May 31, 2018](https://www.youtube.com/watch?v=qL2GFB3mSs8) (29:10)
+  * [SREcon18 Europe/Middle East/Africa, Dusseldorf, Germany, August 29-31, 2018](https://www.youtube.com/watch?v=oYbFDV2n3eU) (27:04)
 
 ## H
 
