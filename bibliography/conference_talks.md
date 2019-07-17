@@ -76,6 +76,10 @@
 
   * [DevOpsDays, Sydney, Australia, December 1-2, 2016](https://www.youtube.com/watch?v=Qor1AL4x0g8) (28:07)
 
+* <a name="kim-dekker-spear-cook-2017"></a> Kim, Gene, Sidney Dekker, Steven Spear, and Richard Cook. 2017. "Convergence Of Safety Culture And Lean: Lessons From The Leaders".
+
+  * [DevOps Enterprise Summit, San Francisco, United States, November 13-15, 2017](https://www.youtube.com/watch?v=CFMJ3V4VakA) (31:06)
+
 ## M
 
 * <a name="maslach-2018"></a> Maslach, Dr. Christina. 2018. "Understanding Job Burnout."

@@ -18,6 +18,8 @@ in tracking what's influencing my intellectual landscape.
   SREcon 2018 recording.
 * :page_with_curl: Jessica Kerr,
   ["Principles of Collaborative Automation"](bibliography/papers_posts_other.md/#kerr-2019).
+* :movie_camera: Gene Kim, Sidney Dekker, Steven Spear, and Richard Cook,
+  ["Convergence Of Safety Culture And Lean: Lessons From The Leaders"](bibliography/conference_talks.md/#kim-dekker-spear-cook-2017).
 * :page_with_curl: Eleanor Rosch,
   ["Principles of Categorization"](bibliography/papers_posts_other.md/#rosch-1978).
   [re-read]
