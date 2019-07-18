@@ -29,9 +29,9 @@
 
   I haven't read this yet.
 
-* Lakoff, George. 2009 (2008). _The Political Mind: A Cognitive Scientist's Guide To Your Brain And Its Politics_. New York: Penguin.
-
-  I've started this, but haven't finished reading this yet.
+* :green_book:
+  George Lakoff,
+  [_The Political Mind_](../bibliography/books.md/#lakoff-2008).
 
 * :green_book:
   George Lakoff and Mark Johnson,

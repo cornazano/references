@@ -92,6 +92,8 @@
 
 ## L
 
+* <a name="lakoff-2008"></a> Lakoff, George. 2009 (2008). _The Political Mind: A Cognitive Scientist's Guide To Your Brain And Its Politics_. New York: Penguin.
+
 * <a name="lakoff-johnson-1980"></a> Lakoff, George, and Mark Johnson. 1980. _Metaphors We Live By_. Chicago: University of Chicago Press.
 
 * <a name="lencioni-2002"></a> Lencioni, Patrick. 2002. _The Five Dysfunctions of a Team: A Leadership Fable_. San Francisco: Josey-Bass.

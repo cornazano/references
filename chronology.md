@@ -20,6 +20,8 @@ in tracking what's influencing my intellectual landscape.
   ["Principles of Collaborative Automation"](bibliography/papers_posts_other.md/#kerr-2019).
 * :movie_camera: Gene Kim, Sidney Dekker, Steven Spear, and Richard Cook,
   ["Convergence Of Safety Culture And Lean: Lessons From The Leaders"](bibliography/conference_talks.md/#kim-dekker-spear-cook-2017).
+* :green_book: George Lakoff,
+  [_The Political Mind_](bibliography/books.md/#lakoff-2008).
 * :page_with_curl: Eleanor Rosch,
   ["Principles of Categorization"](bibliography/papers_posts_other.md/#rosch-1978).
   [re-read]
