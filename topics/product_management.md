@@ -20,4 +20,4 @@ Recommended works:
 
 * :page_with_curl:
   John Cutler,
-  ["Hybrid Boards For Roadmapping"](bibliography/papers_posts_other.md/#cutler-2019).
+  ["Hybrid Boards For Roadmapping"](../bibliography/papers_posts_other.md/#cutler-2019).

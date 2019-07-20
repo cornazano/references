@@ -28,6 +28,8 @@
 
 * <a name="rosch-1978"></a> —. 1978. "Principles of Categorization." _Cognition and Categorization_. Ed. Eleanor Rosch and Barbara B. Lloyd. Hillsdale, NJ: Erlbaum. 27-48.
 
+* <a name="rosch-mervis-gray-johnson-boyes-braem-1976"></a> Rosch, Eleanor, Carolyn B. Mervis, Wayne D. Gray, David M. Johnson, and Penny Boyes-Braem. 1976. "Basic Objects in Natural Categories." _Cognitive Psychology 8_ pp. 382-439.
+
 ## S
 
 * <a name="snowden-boone-2007"></a> Snowden, David J., and Mary E. Boone. 2007. A Leader’s Framework for Decision Making. _Harvard Business Review_, November 2007. https://hbr.org/2007/11/a-leaders-framework-for-decision-making.html, accessed 2017-10-21.

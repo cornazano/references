@@ -25,6 +25,8 @@ in tracking what's influencing my intellectual landscape.
 * :page_with_curl: Eleanor Rosch,
   ["Principles of Categorization"](bibliography/papers_posts_other.md/#rosch-1978).
   [re-read]
+* :page_with_curl: Eleanor Rosch, Carolyn B. Mervis, Wayne D. Gray, David M. Johnson, and Penny Boyes-Braem,
+  ["Basic Objects in Natural Categories"](bibliography/papers_posts_other.md/#rosch-mervis-gray-johnson-boyes-braem-1976")
 * :green_book: Gillian Tett,
   [_The Silo Effect_](bibliography/books.md/#tett-2015).
 

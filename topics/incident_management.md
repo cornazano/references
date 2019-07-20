@@ -43,6 +43,10 @@ Recommended works:
   readiness to respond (being on call), management of active incidents,
   and the post-incident learning process to improve for the future.
 
+* :page_with_curl:
+  Richard I. Cook,
+  ["How Complex Systems Fail"](../bibliorgaphy/papers_posts_other.md/#cook-2000)
+
 * :green_book:
   Gary Klein,
   [_Sources of Power_](../bibliography/books.md/#klein-1998).
