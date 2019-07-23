@@ -51,6 +51,13 @@ Natural Categories:
   George Lakoff,
   ["Cognitive Models and Prototype Theory"](../bibliography/papers_posts_other.md/#lakoff-1987).
 
+  Discusses multiple interpretations of prototype theory, and argues for
+  a _cognitive model_ interpretation.
+  Argues that two other interpretations, the _effects = structure_ interpretation
+  and the _prototype = representation_ interpretation, both generate incorrect
+  predictions.
+  Covers, among other topics, _graded models_, _metonymic models_, and _radial structures_.
+
 * :green_book: Lakoff, George. 1990 (1987). _Women, Fire, and Dangerous Things: What Categories Reveal About the Mind_. Chicago: Chicago University Press.
 
   I haven't read this yet.
