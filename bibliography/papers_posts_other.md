@@ -8,9 +8,13 @@
 
 * <a name="cutler-2018"></a> —. 2018. ["The Patient Change Agent"](https://hackernoon.com/the-patient-change-agent-fd8548f04777)
 
+## F
+
+* <a name="foucault-1982"></a> Foucault, Michel. 1982. "The Subject and Power." _Critical Inquiry 8:4_ pp. 777-795. Available at https://www.jstor.org/stable/1343197.
+
 ## G
 
-* <a name=gothelf></a> Gothelf, Jeff. 2018. ["What does an agile product roadmap look like?"](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
+* <a name="gothelf-2018"></a> Gothelf, Jeff. 2018. ["What does an agile product roadmap look like?"](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
 
 ## K
 

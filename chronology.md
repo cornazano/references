@@ -13,6 +13,8 @@ in tracking what's influencing my intellectual landscape.
 * :movie_camera: Dominica DeGrandis,
   ["Making Connections Visible"](bibliography/conference_talks.md/#degrandis-2018),
   DevOpsDays Toronto 2019 recording.
+* :page_with_curl: Michel Foucault,
+  ["The Subject and Power"](bibliography/papers_posts_other.md/#foucault-1982).
 * :movie_camera: Emily Freeman,
   ["This IS NOT Fine: Putting Out (Code) Fires"](bibliography/conference_talks.md/#freeman-2018),
   SREcon 2018 recording.
