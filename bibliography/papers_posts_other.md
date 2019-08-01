@@ -4,6 +4,10 @@
 
 * <a name="cook-2000"></a> Cook, Richard I. 2000 (1998). How Complex Systems Fail. https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
 
+* <a name="cook-woods-1994"></a> Cook, Richard I, and David D Woods. 1994. "Operating at the Sharp End: The Complexity of Human Error". _Human Error in Medicine_. Ed. Marilyn Sue Bogner. Hillsdale, NJ: Erlbaum and Associates. 255-310.
+
+  Available at https://www.researchgate.net/publication/313407259
+
 * <a name="cutler-2019"></a> Cutler, John. 2019. ["Hybrid Boards For Roadmapping"](https://medium.com/@johnpcutler/hybrid-boards-for-roadmapping-736a0514d3d8).
 
 * <a name="cutler-2018"></a> —. 2018. ["The Patient Change Agent"](https://hackernoon.com/the-patient-change-agent-fd8548f04777)

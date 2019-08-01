@@ -6,6 +6,12 @@ in tracking what's influencing my intellectual landscape.
 
 # 2019
 
+## August
+
+* :page_with_curl: Richard I Cook and David D Woods,
+  ["Operating at the Sharp End: The Complexity of Human Error"](bibliography/papers_posts_other.md/#cook-woods-1994).
+
+
 ## July
 
 * :movie_camera: Noelle Daley,
