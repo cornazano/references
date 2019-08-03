@@ -20,6 +20,8 @@ Starting to experiment with collecting recommended materials for exploring vario
   Improvement Kata and other approaches.
 * [Decision Making](topics/decision_making.md) —
   Naturalistic decision making, the role of expertise, and related materials.
+* [DevOps](topics/devops.md) —
+  Core DevOps works, with references to other closely related topics.
 * [Incident Management](topics/incident_management.md) —
   Handling software incidents, including how we learn from them.
 * [Leadership](topics/leadership.md) —
