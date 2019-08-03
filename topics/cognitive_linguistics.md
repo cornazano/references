@@ -20,9 +20,9 @@ Metaphors:
   George Lakoff and Mark Johnson,
   [_Metaphors We Live By_](../bibliography/books.md/#lakoff-johnson-1980).
 
-* :green_book: Kövecses, Zoltán. 2010. _Metaphor: A Practical Introduction_. 2nd ed. New York: Oxford University Press.
-
-  I haven't read this yet.
+* :green_book:
+  Zoltán Kövecses,
+  [_Metaphor_](../bibliography/books.md/#kovecses-2010).
 
 * :movie_camera:
   Nigel Kersten,
@@ -58,6 +58,6 @@ Natural Categories:
   predictions.
   Covers, among other topics, _graded models_, _metonymic models_, and _radial structures_.
 
-* :green_book: Lakoff, George. 1990 (1987). _Women, Fire, and Dangerous Things: What Categories Reveal About the Mind_. Chicago: Chicago University Press.
-
-  I haven't read this yet.
+* :green_book:
+  George Lakoff,
+  [_Women, Fire, and Dangerous Things_](../bibliography/books.md/#lakoff-1987).

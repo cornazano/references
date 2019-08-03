@@ -90,9 +90,13 @@
 
 * <a name="klein-2013"></a> —. 2013. _Seeing What Others Don't: The Remarkable Ways We Gain Insights_. New York: Pubic Affairs.
 
+* <a name="kovecses-2010"></a> Kövecses, Zoltán. 2010. _Metaphor: A Practical Introduction_. 2nd ed. New York: Oxford University Press.
+
 ## L
 
-* <a name="lakoff-2008"></a> Lakoff, George. 2009 (2008). _The Political Mind: A Cognitive Scientist's Guide To Your Brain And Its Politics_. New York: Penguin.
+* <a name="lakoff-1987"></a> Lakoff, George. 1990 (1987). _Women, Fire, and Dangerous Things: What Categories Reveal About the Mind_. Chicago: Chicago University Press.
+
+* <a name="lakoff-2008"></a> —. 2009 (2008). _The Political Mind: A Cognitive Scientist's Guide To Your Brain And Its Politics_. New York: Penguin.
 
 * <a name="lakoff-johnson-1980"></a> Lakoff, George, and Mark Johnson. 1980. _Metaphors We Live By_. Chicago: University of Chicago Press.
 
