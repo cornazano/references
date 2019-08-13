@@ -20,6 +20,10 @@
 
 * <a name="gothelf-2018"></a> Gothelf, Jeff. 2018. ["What does an agile product roadmap look like?"](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
 
+## H
+
+* <a name="hollnagel-woods-1983"></a> Hollnagel, Erik, and David D. Woods. 1983. Cognitive Systems Engineering: New Wine in New Bottles. _International Journal of Man-Machine Studies_ 18, pp. 583-600.
+
 ## K
 
 * <a name="kerr-2019"></a> Kerr, Jessica. 2019. ["Principles of Collaborative Automation"](https://blog.atomist.com/principles-of-collaborative-automation/).
@@ -43,5 +47,7 @@
 * <a name="snowden-boone-2007"></a> Snowden, David J., and Mary E. Boone. 2007. A Leader’s Framework for Decision Making. _Harvard Business Review_, November 2007. https://hbr.org/2007/11/a-leaders-framework-for-decision-making.html, accessed 2017-10-21.
 
 ## W
+
+* <a name="wears-2008"></a> Wears, Robert L. 2008. The Error of Counting "Errors". _Annals of Emergency Medicine_ 52.5, pp. 502-503.
 
 * <a name="woods-2017"></a> Woods, DD. 2017. STELLA: Report from the SNAFUcatchers workshop on coping with complexity. https://snafucatchers.github.io/

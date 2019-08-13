@@ -10,7 +10,10 @@ in tracking what's influencing my intellectual landscape.
 
 * :page_with_curl: Richard I Cook and David D Woods,
   ["Operating at the Sharp End: The Complexity of Human Error"](bibliography/papers_posts_other.md/#cook-woods-1994).
-
+* :page_with_curl: Erik Hollnagel and David D. Woods,
+  ["Cognitive Systems Engineering: New Wine in New Bottles"](bibliography/papers_posts_other.md/#hollnagel-woods-1983).
+* :page_with_curl: Robert L. Wears,
+  ["The Error of Counting 'Errors'"](bibliography/papers_posts_other.md/#wears-2008).
 
 ## July
 
