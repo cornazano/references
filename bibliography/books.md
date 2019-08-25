@@ -186,6 +186,8 @@
 
 * <a name="tharp-2003"></a> Tharp, Twyla. 2003. _The Creative Habit: Learn It and Use It for Life: A Practical Guide_. New York: Simon & Schuster.
 
+* <a name="tversky-2019"></a> Tversky, Barbara. 2019. _Mind in Motion: How Action Shapes Thought_. New York: Basic Books.
+
 ## Y
 
 * <a name="yuret-2016"></a> Yuret, Adam. 2016. _How to Have Great Meetings: A Lean Coffee Book_. n.p.: Context Driven Agility Press.
