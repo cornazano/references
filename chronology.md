@@ -6,6 +6,11 @@ in tracking what's influencing my intellectual landscape.
 
 # 2019
 
+## September
+
+* :green_book: Barbara Tversky,
+  [_Mind in Motion_](bibliography/books.md/#tversky-2019).
+
 ## August
 
 * :page_with_curl: Richard I Cook and David D Woods,
