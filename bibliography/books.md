@@ -58,6 +58,8 @@
 
 * <a name="grenny-patterson-maxfield-mcmillan-switzler-2013"></a> Grenny, Joseph, Kerry Patterson, David Maxfield, Ron McMillan, and Al Switzler. 2013. _Influencer: The New Science of Leading Change_. Revised and updated 2 nd ed. New York: McGraw Hill.
 
+* <a name="grove-2015"></a> Grove, Andrew S. 2015 (1983). _High Output Management_. New York: Vintage.
+
 * <a name="gruver-2016"></a> Gruver, Gary. 2016. _Starting and Scaling DevOps in the Enterprise_. n.p.: n.p.
 
 ## H
@@ -134,6 +136,8 @@
 
 * <a name="norman-2013"></a> Norman, Don. 2013. _The Design of Everyday Things_. Revised and expanded ed. New York: Basic Books.
 
+* <a name="nunez-2016"></a> Nunez, Paul L. 2016. _The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self_. Amherst, NY: Prometheus Books.
+
 ## O
 
 * <a name="oreilly-2019"></a> O'Reilly, Barry. 2019. _Unlearn: Let Go of Past Success to Achieve Extraordinary Results_. New York: McGraw-Hill.
@@ -173,6 +177,8 @@
 * <a name="schwartz-2017"></a> Schwartz, Mark. 2017. _A Seat at the Table_. Portland: IT Revolution.
 
 * <a name="senge-2006"></a> Senge, Peter M. 2006 (1990). _The Fifth Discipline: The Art and Practice of the Learning Organization_. Revised and Updated. New York: Currency/Doubleday.
+
+* <a name="skelton-pais-2019"></a> Skelton, Matthew, and Manuel Pais. 2019. _Team Topologies: Organizing Business and Technology Teams for Fast Flow_. Portland: IT Revolution.
 
 * <a name="sutherland-sutherland-2014"></a> Sutherland, Jeff, and J. J. Sutherland. 2014. _Scrum: The Art of Doing Twice the Work in Half the Time_. New York: Crown Business.
 

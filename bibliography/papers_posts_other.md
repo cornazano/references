@@ -28,6 +28,8 @@
 
 * <a name="kerr-2019"></a> Kerr, Jessica. 2019. ["Principles of Collaborative Automation"](https://blog.atomist.com/principles-of-collaborative-automation/).
 
+* <a name="klein-feltovich-bradshaw-woods-2005"></a> Klein, Gary, Paul J. Feltovich, Jeffrey M. Bradshaw, and David D. Woods. 2005. "Common Ground and Coordination in Joint Activity." _Organizational Simulation_. Ed. William B. Rouse and Kenneth R. Boff. Hoboken, NJ: John Wiley & Sons. 139-184.
+
 * <a name="kurtz-snowden-2003"></a> Kurtz, Cynthia F., and David J. Snowden. 2003. The New Dynamics of Strategy: Sense-making in a complex and complicated world. _IBM Systems Journal 42.3_, pp. 462-483.
 
 ## L

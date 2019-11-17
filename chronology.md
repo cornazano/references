@@ -6,6 +6,19 @@ in tracking what's influencing my intellectual landscape.
 
 # 2019
 
+## November
+
+* :microphone: DevOpsDays Montreal
+* :green_book: Paul L. Nunez,
+  [_The New Science of Consciousness_](bibliography/books.md/#nunez-2016)
+
+## October
+
+* :microphone: REdeploy
+* :microphone: DevOpsDays Hartford
+* :page_with_curl: Gary Klein, Paul J. Feltovich, Jeffrey M. Bradshaw, and David D. Woods,
+  ["Common Ground and Coordination in Joint Activity"](bibliography/papers_posts_other.md/#klein-feltovich-bradshaw-woods-2005).
+
 ## September
 
 * :green_book: Barbara Tversky,
