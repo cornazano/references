@@ -54,6 +54,8 @@
 
 * <a name="gothelf-seiden-2016"></a> Gothelf, Jeff, and Josh Seiden. 2016. _Lean UX: Designing Great Products With Agile Teams_. 2 nd Ed. Sebasopol, CA: O’Reilly.
 
+* <a name="goldman-zagat-2016"></a> Goldman, Jeremy, and Ali B. Zagat. 2016. _Getting to Like: How to Boost Your Personal and Professional Brand to Expand Opportunities, Grow Your Business, and Achieve Financial Success_. Wayne, NJ: Career Press.
+
 * <a name="gratzer-1999"></a> Gratzer, George. 1999 (1971). _Lattice Theory: First Concepts and Distributive Lattices_. New York: Dover.
 
 * <a name="grenny-patterson-maxfield-mcmillan-switzler-2013"></a> Grenny, Joseph, Kerry Patterson, David Maxfield, Ron McMillan, and Al Switzler. 2013. _Influencer: The New Science of Leading Change_. Revised and updated 2 nd ed. New York: McGraw Hill.

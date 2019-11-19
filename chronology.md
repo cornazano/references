@@ -9,8 +9,10 @@ in tracking what's influencing my intellectual landscape.
 ## November
 
 * :microphone: DevOpsDays Montreal
+* :green_book: Andrew S. Grove,
+   [_High Output Management_](bibliography/books.md/#grove-2015).
 * :green_book: Paul L. Nunez,
-  [_The New Science of Consciousness_](bibliography/books.md/#nunez-2016)
+  [_The New Science of Consciousness_](bibliography/books.md/#nunez-2016).
 
 ## October
 
