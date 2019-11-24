@@ -186,7 +186,7 @@
 
 ## T
 
-* <a name="taleb-2005"></a> Taleb, Nassim Nicoholas. 2005 (2004). _Fooled by Randomness: The Hidden Role of Chance in Live and in the Markets_. 2nd ed. New York: Random House.
+* <a name="taleb-2005"></a> Taleb, Nassim Nicholas. 2005 (2004). _Fooled by Randomness: The Hidden Role of Chance in Live and in the Markets_. 2nd ed. New York: Random House.
 
 * <a name="taleb-2012"></a> —. 2012. _Antifragile: Things That Gain from Disorder_. New York: Random House.
 

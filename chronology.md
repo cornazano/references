@@ -9,10 +9,14 @@ in tracking what's influencing my intellectual landscape.
 ## November
 
 * :microphone: DevOpsDays Montreal
+* :green_book: Jeremy Goldman and Ali B. Zagat,
+  [_Getting to Like_](bibliography/books.md/#goldman-zagat-2016).
 * :green_book: Andrew S. Grove,
-   [_High Output Management_](bibliography/books.md/#grove-2015).
+  [_High Output Management_](bibliography/books.md/#grove-2015).
 * :green_book: Paul L. Nunez,
   [_The New Science of Consciousness_](bibliography/books.md/#nunez-2016).
+* :green_book: Matthew Skelton and Manuel Pais,
+  [_Team Topologies_](bibliography/books.md/#skelton-pais-2019).
 
 ## October
 
@@ -247,7 +251,7 @@ in tracking what's influencing my intellectual landscape.
   ["A Leader’s Framework for Decision Making"](bibliography/papers_posts_other.md/#snowden-boone-2007).
 * :green_book: Jeff Sutherland and J. J. Sutherland,
   [_Scrum_](bibliography/books.md/#sutherland-sutherland-2014).
-* :green_book: Nassim Nicoholas Taleb,
+* :green_book: Nassim Nicholas Taleb,
   [_Antifragile_](bibliography/books.md/#taleb-2012).
 * :green_book: Twyla Tharp,
   [_The Creative Habit_](bibliography/books.md/#tharp-2003).
@@ -294,7 +298,7 @@ in tracking what's influencing my intellectual landscape.
   [_Toyota Kata_](bibliography/books.md/#rother-2010).
 * :green_book: Peter M. Senge,
   [_The Fifth Discipline_](bibliography/books.md/#senge-2006).
-* :green_book: Nassim Nicoholas Taleb,
+* :green_book: Nassim Nicholas Taleb,
   [_Fooled by Randomness_](bibliography/books.md/#taleb-2005).
 
 # 2015
