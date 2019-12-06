@@ -2,7 +2,13 @@
 
 ## C
 
-* <a name="cook-2000"></a> Cook, Richard I. 2000 (1998). How Complex Systems Fail. https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
+* <a name="christensen-cook-hall-2005"></a> Christensen, Clayton M., Scott Cook, and Taddy Hall. 2005. "Marketing Malpractice: The Cause and the Cure". _Harvard Business Review_.
+
+  Available at https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure
+
+* <a name="cook-2000"></a> Cook, Richard I. 2000 (1998). How Complex Systems Fail.
+
+  Available at https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
 
 * <a name="cook-woods-1994"></a> Cook, Richard I, and David D Woods. 1994. "Operating at the Sharp End: The Complexity of Human Error". _Human Error in Medicine_. Ed. Marilyn Sue Bogner. Hillsdale, NJ: Erlbaum and Associates. 255-310.
 

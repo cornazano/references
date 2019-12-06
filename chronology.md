@@ -9,10 +9,14 @@ in tracking what's influencing my intellectual landscape.
 ## November
 
 * :microphone: DevOpsDays Montreal
+* :page_with_curl: Clayton M. Christensen, Scott Cook, and Taddy Hall,
+  ["Marketing Malpractice: The Cause and the Cure"](bibliography/papers_posts_other.md/#christensen-cook-hall-2005).
 * :green_book: Jeremy Goldman and Ali B. Zagat,
   [_Getting to Like_](bibliography/books.md/#goldman-zagat-2016).
 * :green_book: Andrew S. Grove,
   [_High Output Management_](bibliography/books.md/#grove-2015).
+* :green_book: Gene Kim,
+  [_The Unicorn Project_](bibliography/books.md/#kim-2019).
 * :green_book: Paul L. Nunez,
   [_The New Science of Consciousness_](bibliography/books.md/#nunez-2016).
 * :green_book: Matthew Skelton and Manuel Pais,

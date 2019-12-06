@@ -48,6 +48,8 @@
 
 * <a name="fournier-2017"></a> Fournier, Camille. 2017. _The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change_. Sebasopol, CA: O’Reilly.
 
+* <a name="freeman-2019"></a> Freeman, Emily. 2019. _DevOps for Dummies_. Hoboken, NJ: Wiley.
+
 ## G
 
 * <a name="goldratt-cox-2014"></a> Goldratt, Eliyahu M. and Jeff Cox. 2014 (1984). _The Goal: A Process of Ongoing Improvement_. 4 th Rev. Ed. Great Barrington, MA: North River Press.
@@ -85,6 +87,8 @@
 * <a name="kahneman-2011"></a> Kahneman, Daniel. 2011. _Thinking, Fast and Slow_. n.p.: Anchor Canada.
 
 * <a name="kersten-2018"></a> Kersten, Mik. 2018. _Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework_. Portland: IT Revolution.
+
+* <a name="kim-2019"></a> Kim, Gene. 2019. _The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data_. Portland: IT Revolution.
 
 * <a name="kim-behr-spafford-2018"></a> Kim, Gene, Kevin Behr, and George Spafford. 2018 (2013). _The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win_. 5th Anniversary Edition. Portland: IT Revolution.
 
