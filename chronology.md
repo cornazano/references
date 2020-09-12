@@ -6,6 +6,7 @@ in tracking what's influencing my intellectual landscape.
 
 # 2020
 
+* :microphone: DevOpsDays New York City
 * :green_book: Meredith Broussard,
   [_Artificial Unintelligence_](bibliography/books.md/#broussard-2018).
 * :green_book: Annie Duke,
