@@ -7,19 +7,19 @@ in tracking what's influencing my intellectual landscape.
 # 2020
 
 * :green_book: Meredith Broussard,
-  ["Artificial Unintelligence"](bibliography/books.md/#broussard-2018).
+  [_Artificial Unintelligence_](bibliography/books.md/#broussard-2018).
 * :green_book: Annie Duke,
-  ["Thinking in Bets"](bibliography/books.md/#duke-2018).
+  [_Thinking in Bets_](bibliography/books.md/#duke-2018).
 * :green_book: Rod Girle,
-  ["Modal Logics and Philosophy"](bibliography/books.md/#girle-2009).
+  [_Modal Logics and Philosophy_](bibliography/books.md/#girle-2009).
 * :green_book: Lara Hogan,
-  ["Demystifying Public Speaking"](bibliography/books.md/#hogan-2016).
+  [_Demystifying Public Speaking_](bibliography/books.md/#hogan-2016).
 * :green_book: Lara Hogan,
-  ["Resilient Management"](bibliography/books.md/#hogan-2019).
+  [_Resilient Management_](bibliography/books.md/#hogan-2019).
 * :green_book: L. David Marquet,
-  ["Leadership is Language"](bibliography/books.md/#marquet-2020).
+  [_Leadership is Language_](bibliography/books.md/#marquet-2020).
 * :green_book: Cathy O'Neil,
-  ["Weapons of Math Destruction"](bibliography/books.md/#oneil-2016).
+  [_Weapons of Math Destruction_](bibliography/books.md/#oneil-2016).
 
 # 2019
 
