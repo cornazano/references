@@ -4,128 +4,114 @@ Rough timeline of what I've read / watched / attended.
 I'm not sure if I'll keep this long term, but for the moment I'm interested
 in tracking what's influencing my intellectual landscape.
 
+# 2020
+
+* :green_book: Meredith Broussard,
+  ["Artificial Unintelligence"](bibliography/books.md/#broussard-2018).
+* :green_book: Annie Duke,
+  ["Thinking in Bets"](bibliography/books.md/#duke-2018).
+* :green_book: Rod Girle,
+  ["Modal Logics and Philosophy"](bibliography/books.md/#girle-2009).
+* :green_book: Lara Hogan,
+  ["Demystifying Public Speaking"](bibliography/books.md/#hogan-2016).
+* :green_book: Lara Hogan,
+  ["Resilient Management"](bibliography/books.md/#hogan-2019).
+* :green_book: L. David Marquet,
+  ["Leadership is Language"](bibliography/books.md/#marquet-2020).
+* :green_book: Cathy O'Neil,
+  ["Weapons of Math Destruction"](bibliography/books.md/#oneil-2016).
+
 # 2019
 
-## November
-
+* :microphone: CALICO Conference
+* :microphone: DevOpsDays Hartford
 * :microphone: DevOpsDays Montreal
+* :microphone: DevOpsDays New York City
+* :microphone: DevOpsDays Toronto
+* :microphone: REdeploy
+* :green_book: Betsy Beyer et al.,
+  [_The Site Reliability Workbook_](bibliography/books.md/#beyer-murphy-rensin-kawahara-thorne-2018).
+* :green_book: Sharon M. Biggs,
+  [_The Silo Effect_](bibliography/books.md/#biggs-2105).
+* :green_book: Stephen Bungay,
+  [_The Art of Action_](bibliography/books.md/#bungay-2011).
 * :page_with_curl: Clayton M. Christensen, Scott Cook, and Taddy Hall,
   ["Marketing Malpractice: The Cause and the Cure"](bibliography/papers_posts_other.md/#christensen-cook-hall-2005).
-* :green_book: Jeremy Goldman and Ali B. Zagat,
-  [_Getting to Like_](bibliography/books.md/#goldman-zagat-2016).
-* :green_book: Andrew S. Grove,
-  [_High Output Management_](bibliography/books.md/#grove-2015).
-* :green_book: Gene Kim,
-  [_The Unicorn Project_](bibliography/books.md/#kim-2019).
-* :green_book: Paul L. Nunez,
-  [_The New Science of Consciousness_](bibliography/books.md/#nunez-2016).
-* :green_book: Matthew Skelton and Manuel Pais,
-  [_Team Topologies_](bibliography/books.md/#skelton-pais-2019).
-
-## October
-
-* :microphone: REdeploy
-* :microphone: DevOpsDays Hartford
-* :page_with_curl: Gary Klein, Paul J. Feltovich, Jeffrey M. Bradshaw, and David D. Woods,
-  ["Common Ground and Coordination in Joint Activity"](bibliography/papers_posts_other.md/#klein-feltovich-bradshaw-woods-2005).
-
-## September
-
-* :green_book: Barbara Tversky,
-  [_Mind in Motion_](bibliography/books.md/#tversky-2019).
-
-## August
-
 * :page_with_curl: Richard I Cook and David D Woods,
   ["Operating at the Sharp End: The Complexity of Human Error"](bibliography/papers_posts_other.md/#cook-woods-1994).
-* :page_with_curl: Erik Hollnagel and David D. Woods,
-  ["Cognitive Systems Engineering: New Wine in New Bottles"](bibliography/papers_posts_other.md/#hollnagel-woods-1983).
-* :green_book: Zoltán Kövecses,
-  [_Metaphor_](bibliography/books.md/#kovecses-2010).
-* :page_with_curl: Robert L. Wears,
-  ["The Error of Counting 'Errors'"](bibliography/papers_posts_other.md/#wears-2008).
-
-## July
-
+* :page_with_curl: John Cutler,
+  ["Hybrid Boards For Roadmapping"](bibliography/papers_posts_other.md/#cutler-2019).
 * :movie_camera: Noelle Daley,
   ["What Colocated Teams Can Learn From Remote Teams"](bibliography/conference_talks.md/#daley-2019).
 * :movie_camera: Dominica DeGrandis,
   ["Making Connections Visible"](bibliography/conference_talks.md/#degrandis-2018),
   DevOpsDays Toronto 2019 recording.
-* :page_with_curl: Michel Foucault,
-  ["The Subject and Power"](bibliography/papers_posts_other.md/#foucault-1982).
+* :green_book: Nancy Duarte,
+  [_Resonate_](bibliography/books.md/#duarte-2010).
+* :movie_camera: Courtney Eckhardt,
+  ["How to Have an Operational Incident"](bibliography/conference_talks.md/#eckhardt-2019).
+* :green_book: Emily Freeman,
+  [_DevOps for Dummies_](bibliography/books.md/#freeman-2019).
 * :movie_camera: Emily Freeman,
   ["This IS NOT Fine: Putting Out (Code) Fires"](bibliography/conference_talks.md/#freeman-2018),
   SREcon 2018 recording.
+* :page_with_curl: Michel Foucault,
+  ["The Subject and Power"](bibliography/papers_posts_other.md/#foucault-1982).
+* :green_book: Camille Fournier,
+  [_The Manager's Path_](bibliography/books.md/#fournier-2017).
+* :green_book: Jeremy Goldman and Ali B. Zagat,
+  [_Getting to Like_](bibliography/books.md/#goldman-zagat-2016).
+* :page_with_curl: Jeff Gothelf,
+  ["What does an agile product roadmap look like?"](bibliography/papers_posts_other.md/#gothelf-2018).
+* :green_book: Andrew S. Grove,
+  [_High Output Management_](bibliography/books.md/#grove-2015).
+* :movie_camera: Lara Hogan,
+  ["Navigating Team Friction"](bibliography/conference_talks.md/#hogan-2019).
+* :page_with_curl: Erik Hollnagel and David D. Woods,
+  ["Cognitive Systems Engineering: New Wine in New Bottles"](bibliography/papers_posts_other.md/#hollnagel-woods-1983).
 * :page_with_curl: Jessica Kerr,
   ["Principles of Collaborative Automation"](bibliography/papers_posts_other.md/#kerr-2019).
+* :green_book: Gene Kim,
+  [_The Unicorn Project_](bibliography/books.md/#kim-2019).
 * :movie_camera: Gene Kim, Sidney Dekker, Steven Spear, and Richard Cook,
   ["Convergence Of Safety Culture And Lean: Lessons From The Leaders"](bibliography/conference_talks.md/#kim-dekker-spear-cook-2017).
+* :page_with_curl: Gary Klein, Paul J. Feltovich, Jeffrey M. Bradshaw, and David D. Woods,
+  ["Common Ground and Coordination in Joint Activity"](bibliography/papers_posts_other.md/#klein-feltovich-bradshaw-woods-2005).
+* :green_book: Zoltán Kövecses,
+  [_Metaphor_](bibliography/books.md/#kovecses-2010).
 * :page_with_curl: George Lakoff,
   ["Cognitive Models and Prototype Theory"](bibliography/papers_posts_other.md/#lakoff-1987).
   [re-read]
 * :green_book: George Lakoff,
   [_The Political Mind_](bibliography/books.md/#lakoff-2008).
+* :green_book: Patrick Lencioni,
+  [_Silos, Politics and Turf Wars_](bibliography/books.md/#lencioni-2006).
+* :green_book: Paul L. Nunez,
+  [_The New Science of Consciousness_](bibliography/books.md/#nunez-2016).
+* :green_book: Melissa Perri,
+  [_Escaping the Build Trap_](bibliography/books.md/#perri-2019).
+* :green_book: Barry O'Reilly,
+  [_Unlearn_](bibliography/books.md/#oreilly-2019).
+* :green_book: Garr Reynolds,
+  [_Presentation Zen_](bibliography/books.md/reynolds-2012).
+* :page_with_curl: Eleanor H. Rosch,
+  ["Natural Categories"](bibliography/papers_posts_other.md/#rosch-1973).
+  [re-read]
 * :page_with_curl: Eleanor Rosch,
   ["Principles of Categorization"](bibliography/papers_posts_other.md/#rosch-1978).
   [re-read]
 * :page_with_curl: Eleanor Rosch, Carolyn B. Mervis, Wayne D. Gray, David M. Johnson, and Penny Boyes-Braem,
   ["Basic Objects in Natural Categories"](bibliography/papers_posts_other.md/#rosch-mervis-gray-johnson-boyes-braem-1976")
+* :green_book: Matthew Skelton and Manuel Pais,
+  [_Team Topologies_](bibliography/books.md/#skelton-pais-2019).
 * :green_book: Gillian Tett,
   [_The Silo Effect_](bibliography/books.md/#tett-2015).
-
-## June
-
-* :green_book: Sharon M. Biggs,
-  [_The Silo Effect_](bibliography/books.md/#biggs-2105).
-* :green_book: Stephen Bungay,
-  [_The Art of Action_](bibliography/books.md/#bungay-2011).
-* :green_book: Nancy Duarte,
-  [_Resonate_](bibliography/books.md/#duarte-2010).
-* :movie_camera: Courtney Eckhardt,
-  ["How to Have an Operational Incident"](bibliography/conference_talks.md/#eckhardt-2019).
-* :green_book: Camille Fournier,
-  [_The Manager's Path_](bibliography/books.md/#fournier-2017).
-* :movie_camera: Lara Hogan,
-  ["Navigating Team Friction"](bibliography/conference_talks.md/#hogan-2019).
-* :page_with_curl: Eleanor H. Rosch,
-  ["Natural Categories"](bibliography/papers_posts_other.md/#rosch-1973).
-  [re-read]
-
-## May
-
-* :microphone: CALICO Conference
-* :microphone: DevOpsDays Toronto
-* :green_book: Betsy Beyer et al.,
-  [_The Site Reliability Workbook_](bibliography/books.md/#beyer-murphy-rensin-kawahara-thorne-2018).
-
-## April
-
+* :green_book: Barbara Tversky,
+  [_Mind in Motion_](bibliography/books.md/#tversky-2019).
+* :page_with_curl: Robert L. Wears,
+  ["The Error of Counting 'Errors'"](bibliography/papers_posts_other.md/#wears-2008).
 * :green_book: Adam Yuret,
   [_How to Have Great Meetings_](bibliography/books.md/#yuret-2016).
-
-## March
-
-* :green_book: Patrick Lencioni,
-  [_Silos, Politics and Turf Wars_](bibliography/books.md/#lencioni-2006).
-* :green_book: Barry O'Reilly,
-  [_Unlearn_](bibliography/books.md/#oreilly-2019).
-
-## February
-
-* :green_book: Melissa Perri,
-  [_Escaping the Build Trap_](bibliography/books.md/#perri-2019).
-* :green_book: Garr Reynolds,
-  [_Presentation Zen_](bibliography/books.md/reynolds-2012).
-
-## January
-
-* :microphone: DevOpsDays New York City
-* :page_with_curl: John Cutler,
-  ["Hybrid Boards For Roadmapping"](bibliography/papers_posts_other.md/#cutler-2019).
-* :page_with_curl: Jeff Gothelf,
-  ["What does an agile product roadmap look like?"](bibliography/papers_posts_other.md/#gothelf-2018).
-
 
 # 2018
 

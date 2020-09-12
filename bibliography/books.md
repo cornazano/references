@@ -6,6 +6,8 @@
 
 * <a name="biggs-2015"></a>Biggs, Sharon M. 2015 (2014). _The Silo Effect: Invisible Barriers That Can Destroy Organizational Teams_. 2nd ed. np: np.
 
+* <a name="broussard-2018"></a>Broussard, Meredith. 2018. _Artificial Unintelligence: How Computers Misunderstand the World_. Cambridge, MA: The MIT Press.
+
 * <a name="bungay-2011"></a>Bungay, Stephen. 2011. _The Art of Action: How Leaders Close the Gap between Plans, Actions and Results_. London: Nicholas Brealey.
 
 ## C
@@ -32,6 +34,8 @@
 
 * <a name="duarte-2010"></a> —. 2010. _Resonate: Present Visual Stories that Transform Audiences_. n.p: John Wiley & Sons.
 
+* <a name="duke-2018"></a> Duke, Annie. 2018. _Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts_. New York: Portfolio/Penguin.
+
 * <a name="dweck-2016"></a> Dweck, Carol S. 2016 (2006). _Mindset: The New Psychology of Success_. Updated edition. New York: Ballantine Books.
 
 ## E
@@ -52,9 +56,11 @@
 
 ## G
 
-* <a name="goldratt-cox-2014"></a> Goldratt, Eliyahu M. and Jeff Cox. 2014 (1984). _The Goal: A Process of Ongoing Improvement_. 4 th Rev. Ed. Great Barrington, MA: North River Press.
+* <a name="girle-2009"></a> Girle, Rod. 2009. _Modal Logics and Philosophy_. 2nd Ed. Montreal: McGill-Queen's University Press.
 
-* <a name="gothelf-seiden-2016"></a> Gothelf, Jeff, and Josh Seiden. 2016. _Lean UX: Designing Great Products With Agile Teams_. 2 nd Ed. Sebasopol, CA: O’Reilly.
+* <a name="goldratt-cox-2014"></a> Goldratt, Eliyahu M. and Jeff Cox. 2014 (1984). _The Goal: A Process of Ongoing Improvement_. 4th Rev. Ed. Great Barrington, MA: North River Press.
+
+* <a name="gothelf-seiden-2016"></a> Gothelf, Jeff, and Josh Seiden. 2016. _Lean UX: Designing Great Products With Agile Teams_. 2nd Ed. Sebasopol, CA: O’Reilly.
 
 * <a name="goldman-zagat-2016"></a> Goldman, Jeremy, and Ali B. Zagat. 2016. _Getting to Like: How to Boost Your Personal and Professional Brand to Expand Opportunities, Grow Your Business, and Achieve Financial Success_. Wayne, NJ: Career Press.
 
@@ -77,6 +83,10 @@
 * <a name="hering-2017"></a> Hering, Mirco. 2017. _DevOps for the Modern Enterprise: Winning Practices to Transform Legacy IT Organizations_. Uncorrected proof. Portland: IT Revolution.
 
 * <a name="hoffman-2016"></a> Hoffman, Kevin. 2016. _Beyond the Twelve-Factor App: Exploring the DNA of Highly Scalable, Resilient Cloud Applications_. Sebastopol, CA: O’Reilly.
+
+* <a name="hogan-2016"></a> Hogan, Lara. 2016. _Demystifying Public Speaking_. New York: A Book Apart.
+
+* <a name="hogan-2019"></a> —. 2019. _Resilient Management_. New York: A Book Apart.
 
 * <a name="humble-farley-2011"></a> Humble, Jez, and David Farley. 2011. _Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation_. Upper Saddle River, NJ: Addison-Wesley.
 
@@ -124,6 +134,8 @@
 
 * <a name="marquet-2012"></a> Marquet, L. David. 2012. _Turn the Ship Around!: A True Story of Turning Followers into Leaders_. New York: Portfolio/Penguin.
 
+* <a name="marquet-2020"></a> —. 2020. _Leadership is Language: The Hidden Power of What You Say—And What You Don't_. New York: Portfolio/Penguin.
+
 * <a name="martin-2018"></a> Martin, Karen. 2018. _Clarity First: How Smart Leaders and Organizations Achieve Outstanding Performance_. New York: McGraw Hill.
 
 * <a name="martin-osterling-2014"></a> Martin, Karen, and Mike Osterling. 2014. _Value Stream Mapping: How to Visualize Work and Align Leadership for Organizational Transformation_. New York: McGraw Hill.
@@ -145,6 +157,8 @@
 * <a name="nunez-2016"></a> Nunez, Paul L. 2016. _The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self_. Amherst, NY: Prometheus Books.
 
 ## O
+
+* <a name="oneil-2016"></a> O'Neil, Cathy. 2016. _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. New York: Broadway Books.
 
 * <a name="oreilly-2019"></a> O'Reilly, Barry. 2019. _Unlearn: Let Go of Past Success to Achieve Extraordinary Results_. New York: McGraw-Hill.
 
