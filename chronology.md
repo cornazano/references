@@ -17,6 +17,8 @@ in tracking what's influencing my intellectual landscape.
   [_Demystifying Public Speaking_](bibliography/books.md/#hogan-2016).
 * :green_book: Lara Hogan,
   [_Resilient Management_](bibliography/books.md/#hogan-2019).
+* :green_book: Erik Hollnagel and David D. Woods,
+  [_Joint Cognitive Systems_](bibliography/books.md/#hollnagel-woods-2005).
 * :green_book: L. David Marquet,
   [_Leadership is Language_](bibliography/books.md/#marquet-2020).
 * :green_book: Cathy O'Neil,

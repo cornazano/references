@@ -88,6 +88,8 @@
 
 * <a name="hogan-2019"></a> —. 2019. _Resilient Management_. New York: A Book Apart.
 
+* <a name="hollnagel-woods-2005"></a> Hollnagel, Erik, and David D. Woods. 2005. _Joint Cognitive Systems: Foundations of Cognitive Systems Engineering_. Boca Raton, FL: CRC Press.
+
 * <a name="humble-farley-2011"></a> Humble, Jez, and David Farley. 2011. _Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation_. Upper Saddle River, NJ: Addison-Wesley.
 
 * <a name="humble-molesky-oreilly-2015"></a> Humble, Jez, Joanne Molesky, and Barry O’Reilly. 2015. _Lean Enterprise: How High Performance Organizations Innovate at Scale_. Sebastopol, CA: O’Reilly.
