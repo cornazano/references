@@ -1,5 +1,11 @@
 # Papers, Posts, and Other Media
 
+## B
+
+* <a name="bainbridge-1983"></a> Bainbridge, L[isanne]. 1983. "Ironies of Automation". _Analysis, Design and Evaluation of Man–Machine Systems_. Baden, Germany: Elsevier. 129-135.
+
+  Available from https://www.sciencedirect.com/science/article/pii/B9780080293486500269.
+
 ## C
 
 * <a name="christensen-cook-hall-2005"></a> Christensen, Clayton M., Scott Cook, and Taddy Hall. 2005. "Marketing Malpractice: The Cause and the Cure". _Harvard Business Review_.

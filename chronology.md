@@ -7,7 +7,9 @@ in tracking what's influencing my intellectual landscape.
 # 2020
 
 * :microphone: DevOpsDays New York City
-* :green_book: Meredith Broussard,
+* :page_with_curl: Lisanne Bainbridge,
+  ["Ironies of Automation"](bibliography/papers_posts_other.md/#bainbridge-1983).
+* * :green_book: Meredith Broussard,
   [_Artificial Unintelligence_](bibliography/books.md/#broussard-2018).
 * :green_book: Annie Duke,
   [_Thinking in Bets_](bibliography/books.md/#duke-2018).
